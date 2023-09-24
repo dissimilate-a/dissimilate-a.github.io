@@ -1,0 +1,21 @@
+@font-face {
+  font-family: AudiTypeB;
+  font-weight: 700;
+  font-style: normal;
+  src: local("AudiTypeB"),
+       url("../fonts/AudiType_bold.woff2") format('woff2'),
+       url("../fonts/AudiType_bold.woff") format('woff'),
+       url("../fonts/AudiType_bold.eot") format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: AudiType;
+  font-weight: 400;
+  font-style: normal;
+  src: local("AudiType"),
+       url("../fonts/AudiType_normal.woff2") format('woff2'),
+       url("../fonts/AudiType_normal.woff") format('woff'),
+       url("../fonts/AudiType_normal.eot") format('eot');
+  font-display: swap;
+}

@@ -1,0 +1,129 @@
+.wrapper {
+  width: 100%;
+  height: 100vh;
+}
+
+.conteiner {
+  font-family: AudiType;
+  max-width: 1755px;
+  height: 100vh;
+  padding: 0 75px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: AudiTypeB;
+  margin-top: 40px;
+  padding-bottom: 25px;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: AudiTypeB;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+p {
+  margin-bottom: 30px;
+  line-height: 20px;
+}
+
+li {
+  line-height: 20px;
+}
+
+.flexbox {
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 70px;
+  justify-content: space-between;
+}
+
+.block {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: #6c5ce7;
+  color: white;
+  text-align: center;
+  border-radius: 15px;
+  border: 4px solid #a29bfe;
+}
+
+.p_block {
+  padding:  auto;
+  position: relative;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.conteiner_garant {
+  font-family: AudiType;
+  max-width: 1755px;
+  height: 100vh;
+  padding: 0 200px;
+  margin: 0 auto;
+}
+
+.f {
+  margin-top: 70px;
+  width: 400px;
+  height: 450px;
+  padding: 0 25px;
+  border-radius: 20px;
+  float: left;
+  text-align: center;
+  border: 3px solid rgb(174, 174, 174);
+  background-color: #1f1f1f;
+  color: white;
+}
+
+#fore {
+  font-family: AudiTypeB;
+  font-size: 20px;
+  padding-top: 40px;
+  margin-bottom: 30px;
+}
+
+.fore_li {
+  line-height: 40px;
+  float: left;
+}
+
+button {
+  width: 170px;
+  height: 50px;
+  border-radius: 15px;
+  margin-top: 45px;
+  background-color: white;
+  border: 3px solid rgb(174, 174, 174);
+}
+.button2 {
+  width: 170px;
+  height: 50px;
+  border-radius: 15px;
+  margin-top: 45px;
+  background-color: #1f1f1f;
+  border: 3px solid rgb(174, 174, 174);
+  color: white;
+}
+
+.f2 {
+  margin-top: 70px;
+  width: 400px;
+  height: 450px;
+  padding: 0 25px;
+  float: right;
+  border-radius: 20px;
+  text-align: center;
+  border: 3px solid #1f1f1f;
+  background-color: white ;
+  color: #1f1f1f;
+}

@@ -1,0 +1,40 @@
+h1 {
+  font-family: AudiTypeB;
+}
+
+body {
+  font-family: AudiType;
+}
+.wrapper {
+  width: 100%;
+  min-height: 100%;
+}
+
+.conteiner {
+  font-family: AudiType;
+  max-width: 1755px;
+  height: 100vh;
+  padding: 0 75px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: AudiTypeB;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+p {
+  margin-bottom: 30px;
+  line-height: 20px;
+}
+
+video {
+  padding-top: 40px;
+}
+
+.video_conteiner {
+  display: flex;
+  justify-content: space-around;
+}
